@@ -30,7 +30,7 @@ const Attributes = (ryzerr) => {
 # <div align="center">Skills</div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,cs,c,cpp,vscode,arduino,css,html" />
+    <img src="https://skillicons.dev/icons?i=react,js,cs,c,cpp,python,vscode,arduino,css,html" />
   </a>
 </p>
 
