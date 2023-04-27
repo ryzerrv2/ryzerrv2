@@ -1,5 +1,6 @@
-# <h2 style="display:flex; justify-content: center; align-items: center; gap: 10px; font-weight:600; font-style: italic"><font size="6">Hello, this is ryzerr</font> <img src="https://img.icons8.com/?size=512&id=19294&format=png" alt="code icon" style="width: 5%"></img> </h2>
+# <h2 style="display:flex; justify-content: center; align-items: center; gap: 10px; font-weight:600; font-style: italic"><font size="6">Hello, this is me</font> <img src="https://img.icons8.com/?size=512&id=19294&format=png" alt="code icon" style="width: 5%"></img> </h2>
 
+<h2 align="center">Hello, this is me <img src="https://img.icons8.com/?size=512&id=19294&format=png" height="25px"> </h2>
 
 
 ```javascript
