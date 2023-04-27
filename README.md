@@ -1,4 +1,4 @@
-<div style="width: 100%; display:flex; justify-content: center; align-items: center; gap: 10px; font-weight:600; font-style: italic"><font size="6">Hello, this is ryzerr</font> <img src="https://img.icons8.com/?size=512&id=19294&format=png" alt="code icon" style="width: 5%"></img> </div>
+# <div align="center" style="width: 100%; display:flex; align-items: center; gap: 10px; font-weight:600; font-style: italic"><font size="6">Hello, this is ryzerr</font> <img src="https://img.icons8.com/?size=512&id=19294&format=png" alt="code icon" style="width: 5%"></img> </div>
 
 ***
 
