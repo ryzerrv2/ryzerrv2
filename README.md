@@ -24,7 +24,9 @@ const Attributes = (ryzerr) => {
 		specialities: ["web app", "automation"],
 		environment: ["vscode", "vs", "arduino ide"]
 	};
-}
+
+	return {contacts, life, coding};
+};
 ```
 
 # <div align="center">Skills</div>
