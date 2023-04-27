@@ -1,4 +1,4 @@
-# <h1 align="center" style="font-weight: 600;"> <font size="6">*Hello, this is me*</font> </h1>
+# <div align="center" style="font-weight: 600;"> <font size="6">*Hello, this is me*</font> </h1>
 
 ```javascript
 const Attributes = (ryzerr) => {
