@@ -1,4 +1,4 @@
-# <div style="text-align:center; font-weight:600;"><font size="6">_Hello, this is ryzerr_</font></div>
+# <div align="center" style="font-weight:600;"><font size="6">_Hello, this is ryzerr_</font></div>
 
 ```javascript
 const Attributes = (ryzerr) => {
