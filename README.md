@@ -1,4 +1,6 @@
-# <div align="center" valign="bottom" style="font-weight:600; font-style: italic"><font size="6">Hello, this is ryzerr</font> <img src="https://img.icons8.com/?size=512&id=19294&format=png" alt="code icon" style="width: 5%"></img> </div>
+# <h2 style="display:flex; justify-content: center; align-items: center; gap: 10px; font-weight:600; font-style: italic"><font size="6">Hello, this is ryzerr</font> <img src="https://img.icons8.com/?size=512&id=19294&format=png" alt="code icon" style="width: 5%"></img> </h2>
+
+
 
 ```javascript
 const Attributes = (ryzerr) => {
@@ -18,8 +20,8 @@ const Attributes = (ryzerr) => {
 	const coding = {
 		langs: {
 			expert: [""], //no one :-(
-			intermediate: ["js", "react"],
-			learning: ["c", "c++", "python", "c#"]
+			intermediate: ["js", "react", "c", "c++"],
+			learning: ["python", "c#"]
 		},
 		specialities: ["web app", "automation"],
 		environment: ["vscode", "vs", "arduino ide"]
