@@ -1,4 +1,4 @@
-<h1 align="center" style="display: flex; justify-content:center; align-items:center; font-weight: 600;"> <font size="6">Hello, this is me</font> <img src="https://img.icons8.com/?size=512&id=19294&format=png" height="35px"> </h1>
+<h1 align="center" style="font-weight: 600; font-style: italic;"> <font size="6">Hello, this is me</font> </h1>
 
 ```javascript
 const Attributes = (ryzerr) => {
