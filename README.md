@@ -1,4 +1,4 @@
-# <div style="display:flex; justify-content: center; align-items: center; gap: 10px; font-weight:600;"><font size="6">_Hello, this is ryzerr_</font> <img src="https://img.icons8.com/?size=512&id=19294&format=png" alt="code icon" style="width: 10%"></img> </div>
+# <div style="height: 100%; display:flex; justify-content: center; align-items: center; gap: 10px; font-weight:600;"><font size="6">_Hello, this is ryzerr_</font> <img src="https://img.icons8.com/?size=512&id=19294&format=png" alt="code icon" style="width: 5%"></img> </div>
 
 ```javascript
 const Attributes = (ryzerr) => {
